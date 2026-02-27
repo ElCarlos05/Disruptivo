@@ -1,0 +1,2 @@
+# Disruptivo
+Actualizaciones del juego
