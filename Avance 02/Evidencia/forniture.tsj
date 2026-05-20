@@ -1,0 +1,14 @@
+{ "columns":4,
+ "image":"tilesets\/furniture\/forniture.png",
+ "imageheight":224,
+ "imagewidth":128,
+ "margin":0,
+ "name":"forniture",
+ "spacing":0,
+ "tilecount":28,
+ "tiledversion":"1.12.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
